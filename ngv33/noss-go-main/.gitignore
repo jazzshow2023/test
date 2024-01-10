@@ -1,0 +1,5 @@
+.env
+noss
+libnoss.a
+*.o
+*/node_modules

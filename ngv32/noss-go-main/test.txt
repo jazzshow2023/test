@@ -1,0 +1,1 @@
+[0,"",1704294386,1,[["p","9be107b0d7218c67b4954ee3e6bd9e4dba06ef937a93f684e42f730a0c3d053c"],["e","51ed7939a984edee863bfbb2e66fdc80436b000a8ddca442d83e6a2bf1636a95","wss://relay.noscription.org/","root"],["e","","wss://relay.noscription.org/","reply"],["seq_witness","",""],["nonce","miifaladjb","21"]],"{\"p\":\"nrc-20\",\"op\":\"mint\",\"tick\":\"noss\",\"amt\":\"10\"}"]
